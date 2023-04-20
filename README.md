@@ -171,3 +171,7 @@ Admin Panel -> Manage -> Help Topics -> Add New Help Topic
 Give the Help Topic the name 'Business Critical Outage,' active status and type should be 'Public.' The Parent Topic is the level of criticality the topic belongs and should go to its respective level based on the organization and its needs. 
 </p>
 <br />
+
+<p>
+There is a way to configure emails to be sent to a specific address users can use with forms and the system will automatically generate a ticket for them. Many organizations do this for efficiency. 
+</p>
