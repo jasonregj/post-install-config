@@ -155,3 +155,19 @@ Admin Panel -> Manage -> SLA -> Add New SLA Plan
 This SLA is named SEV-A for Level of Severity A (as being the top-most priority and requiring the most immediate resolution). For this example the Grace Period is 1 hour within a 24/7 Schedule. That means any day of the week/year, this ticket must be responded to within an hour. You can create additional SLA Plans (Levels of Severity) by following the same steps and adjusting the grace period and schedule. Then select 'Add Plan' to create the plan.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/RUnQInI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Admin Panel -> Manage -> Help Topics -> Add New Help Topic 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/aqVUXgL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Give the Help Topic the name 'Business Critical Outage,' active status and type should be 'Public.' The Parent Topic is the level of criticality the topic belongs and should go to its respective level based on the organization and its needs. 
+</p>
+<br />
